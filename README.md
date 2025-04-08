@@ -1,7 +1,5 @@
 # Afya Centre - Health & Nutrition Platform
 
-![Afya Centre Logo](Afya%20logo.png)
-
 A comprehensive health and nutrition web application offering personalized diet plans, workout routines, and health resources.
 
 ## Features
@@ -29,26 +27,12 @@ A comprehensive health and nutrition web application offering personalized diet 
   - Login functionality
   - Personalized recommendations
 
-## Installation
+## Demo
 
-1. Clone the repository:
-   ```bash
-   git clone [repository-url]
-   ```
+### 1. Login
+![League Standings](public/images/demo/login.PNG)
 
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
 
-3. Set up MySQL database:
-   - Run `Afya Centre db.sql` to create database schema
-   - Configure credentials in `database.js`
-
-4. Start the application:
-   ```bash
-   node app.js
-   ```
 
 ## File Structure
 
