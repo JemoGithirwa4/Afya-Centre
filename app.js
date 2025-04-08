@@ -33,7 +33,7 @@ io.on("connection", function(socket){
 const db = mysql.createConnection({
     host: 'localhost',
     user: 'root',
-    password: '@Kukurella17',
+    password: 'Your_db_password',
     database: 'afya_centre',
 });
 
