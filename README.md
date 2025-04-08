@@ -73,7 +73,7 @@ This page contains fasting plans for users to use. Click a specific fast type un
 ![Home page](public/images/demo/fast.PNG)
 
 24hr fast example.
-![Home page](public/images/demo/fast 2.PNG)
+![Home page](public/images/demo/fast2.PNG)
 
 Fast started.
 ![Home page](public/images/demo/fast3.PNG)
